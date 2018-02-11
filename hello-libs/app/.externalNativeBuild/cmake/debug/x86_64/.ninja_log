@@ -1,0 +1,27 @@
+# ninja log v5
+1	101	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+102	320	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+2	101	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+101	797	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+1	380	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+380	636	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+1	102	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+102	199	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+1	101	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+101	217	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+1	198	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+198	299	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+2	199	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+199	309	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+3	137	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+137	403	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+1	87	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+87	198	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+1	172	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+172	363	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+1	448	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+448	740	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+2	101	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+101	472	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e
+2	245	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	e81673ba02348764
+245	744	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86_64/libhello-libs.so	6f337e384dd2e73e

@@ -1,0 +1,27 @@
+# ninja log v5
+0	244	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+244	367	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+1	91	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+91	260	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+1	92	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+92	477	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+1	92	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+92	179	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+1	81	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+81	170	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+1	102	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+102	196	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+2	108	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+108	201	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+1	90	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+90	216	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+1	88	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+88	175	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+1	143	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+143	279	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+2	88	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+88	219	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+2	95	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+95	187	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
+2	91	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	46cf29a9a3e8dc0a
+91	489	0	E:/Try/hello-libs/app/build/intermediates/cmake/debug/obj/x86/libhello-libs.so	5cd802c7ae6dcee
